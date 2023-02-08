@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaabubakar
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Science and Project Management on Coursera
+- 🌱 I’m currently learning Data Science and Softaware development on Coursera
 - 💞️ I’m looking to collaborate on Data analysis Projects
 - 📫 You can reach me on Linkedin (https://www.linkedin.com/in/abubakarabdulkadirabubakar/) or via my email (aaabubakar@gmail.com) 
 
